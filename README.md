@@ -1,54 +1,54 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/fasteat)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/fasteat?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/fasteat?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/P_yKqjx35J4?style=social)](https://youtu.be/P_yKqjx35J4)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Alvarows20/fasteat)
+  ![GitHub stars](https://img.shields.io/github/stars/Alvarows20/fasteat?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Alvarows20/fasteat?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/PradoTen3?style=social)](https://twitter.com/intent/follow?screen_name=Alvarows20)
+ 
 
   <br />
   <br />
 
-  <h2 align="center">Fasteat - Food delivery Website</h2>
+  <h2 align="center">Fasteat - Sitio Web de Comida Rápida</h2>
 
-  Fasteat is a fully responsive food delivery website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Fasteat es una página web de comida rápida totalmente responsiva <br />Responsiva para todos los dispositivos usando HTML,CSS Y JS.
 
-  <a href="https://codewithsadee.github.io/fasteat/"><strong>➥ Live Demo</strong></a>
+  <a href="https://alvarows20.github.io/Fasteat---Sitio-web-de-comida-a-domicilio/"><strong>➥ Demo en vivo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demostración del sitio
 
-![Fasteat Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Fasteat Desktop Demo](./Pagina%20de%20Comida%20Rapida%20Responsiva_page-0001.jpg "Desktop Demo")
 
-### Prerequisites
+### Prerrequisitos
 
-Before you begin, ensure you have met the following requirements:
+Antes de comenzar, asegúrese de haber cumplido con los siguientes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") debe estar instalado en su sistema operativo.
 
-### Run Locally
+### Ejecutar en tu local
 
-To run **Fasteat** locally, run this command on your git bash:
+Para ejecutar **Fasteat** localmente, ejecuta este comando en tu git bash:
 
-Linux and macOS:
+Linux y macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/fasteat.git
+sudo git clone https://github.com/Alvarows20/Fasteat---Sitio-web-de-comida-a-domicilio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/fasteat.git
+git clone https://github.com/Alvarows20/Fasteat---Sitio-web-de-comida-a-domicilio.git
 ```
 
-### Contact
+### Contacto
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Si quieres contactarme te dejo mi [Twitter](https://twitter.com/PradoTen3).
 
-### License
+### Licencia
 
-This project is **free to use** and does not contains any license.
+Este proyecto es **de uso gratuito** y no contiene ninguna licencia.
