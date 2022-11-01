@@ -1,9 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Alvarows20/fasteat)
-  ![GitHub stars](https://img.shields.io/github/stars/Alvarows20/fasteat?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/Alvarows20/fasteat?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/PradoTen3?style=social)](https://twitter.com/intent/follow?screen_name=Alvarows20)
+ 
+
+  [![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/PradoTen3?style=social)](https://twitter.com/intent/follow?screen_name=PradoTen3)
  
 
   <br />
@@ -21,7 +20,7 @@
 
 ### Demostración del sitio
 
-![Fasteat Desktop Demo](./Pagina%20de%20Comida%20Rapida%20Responsiva_page-0001.jpg "Desktop Demo")
+[![Fasteat Desktop Demo](./Pagina%20de%20Comida%20Rapida%20Responsiva_page-0001.jpg "Desktop Demo") ](https://alvarows20.github.io/Fasteat---Sitio-web-de-comida-a-domicilio/)
 
 ### Prerrequisitos
 
