@@ -42,6 +42,4 @@ git clone https://github.com/Alvarows20/Fasteat---Sitio-web-de-comida-a-domicili
 
 Si quieres contactarme te dejo mi [Twitter](https://twitter.com/PradoTen3).
 
-### Licencia
 
-Este proyecto es **de uso gratuito** y no contiene ninguna licencia.
