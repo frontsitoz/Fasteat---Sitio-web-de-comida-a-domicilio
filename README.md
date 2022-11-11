@@ -1,15 +1,9 @@
 <div align="center">
-  
- 
 
+  <h1 align="center">Fasteat - Sitio Web de Comida Rápida🍔</h2>
 
- 
-
+![](https://img.shields.io/github/issues/Alvarows20/Fasteat---Sitio-web-de-comida-a-domicilio)
   <br />
-  <br />
-
-  <h2 align="center">Fasteat - Sitio Web de Comida Rápida</h2>
-
   Fasteat es una página web de comida rápida totalmente responsiva <br />Responsiva para todos los dispositivos usando HTML,CSS Y JS.
 
   <a href="https://alvarows20.github.io/Fasteat---Sitio-web-de-comida-a-domicilio/"><strong>➥ Demo en vivo</strong></a>
